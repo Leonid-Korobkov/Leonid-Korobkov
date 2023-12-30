@@ -56,6 +56,6 @@
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/Leonid-Korobkov/KRB-Notes" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=KRB-Notes&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Leonid-Korobkov/math-project" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=math-project&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Leonid-Korobkov/chat" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=chat&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Leonid-Korobkov/quiz-history" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=quiz-history&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
