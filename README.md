@@ -47,15 +47,16 @@
 ### Socials  
 <p align="left"> <a href="https://www.github.com/Leonid-Korobkov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/Leonid-Korobkov" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonid-Korobkov&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Leonid-Korobkov"><img src="https://github-readme-stats.vercel.app/api?username=Leonid-Korobkov&show_icons=true&hide=contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Leonid-Korobkov's GitHub stats" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leonid-korobkov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=leonid-korobkov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leonid-korobkov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/Leonid-Korobkov/KRB-Notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=KRB-Notes&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Leonid-Korobkov/math-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=math-project&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leonid-korobkov&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br /><br />
+---
+[![](https://komarev.com/ghpvc/?username=leonid-korobkov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div width="100%" align="center"><a href="https://github.com/Leonid-Korobkov/chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=chat&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Leonid-Korobkov/quiz-history" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Leonid-Korobkov&repo=quiz-history&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
